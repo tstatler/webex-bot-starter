@@ -1,0 +1,6 @@
+{
+  "name": "Webex Bot Starter App",
+  "description": "App that demonstrates how to use the Webex Node Bot Framework to quickly create a Webex Bot.",
+  "repository": " https://github.com/tstatler/webex-bot-starter",
+  "keywords": ["node", "express", "static", "webex"]
+}
